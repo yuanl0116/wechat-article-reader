@@ -1,0 +1,10 @@
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
+.DS_Store
+output/*
+!output/.gitkeep
+input/*
+!input/.gitkeep
+!input/links.example.txt
